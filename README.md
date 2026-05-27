@@ -14,6 +14,4 @@ Esta aplicação é um sistema de gerenciamento de inventário de um jogos de RP
 
 Certifique-se de ter o Java Development Kit (JDK) instalado em sua máquina.
 
-1. Abra o terminal (Prompt de Comando ou Bash) e navegue até a pasta raiz onde a pasta `src` está localizada:
-```bash
-   cd /caminho/para/a/sua/pasta/do/projeto
+1. Abra o terminal (Prompt de Comando ou Bash) e navegue até a pasta raiz onde a pasta `src` está localizada.
